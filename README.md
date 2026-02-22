@@ -24,3 +24,5 @@ This project implements a scalable supply chain demand analytics pipeline using 
 
 ## Author
 Sambangi Narappagari Karthik
+Sambangi Chinappannagari Hemanth Kumar
+Sambangi Chinappannagari Ganesh
