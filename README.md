@@ -23,6 +23,4 @@ This project implements a scalable supply chain demand analytics pipeline using 
 3. Gold KPI table will be created
 
 ## Author
-Sambangi Narappagari Karthik
-Sambangi Chinappannagari Hemanth Kumar
-Sambangi Chinappannagari Ganesh
+Sambangi Narappagari Karthik 
